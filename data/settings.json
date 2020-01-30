@@ -1,24 +1,20 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "Introducción",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "Introducción",
+          "slug": "introduccion"
         }
       ]
     },
     {
-      "section": "Setup",
+      "section": "Composición",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
-        },
-        {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Composicion",
+          "slug": "composicion"
         }
       ]
     }
