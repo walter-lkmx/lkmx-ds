@@ -17,6 +17,48 @@
           "slug": "composicion"
         }
       ]
+    },
+    {
+      "section": "Tokens",
+      "topics": [
+        {
+          "title": "Básicos",
+          "slug": "tokens-basicos"
+        },
+        {
+          "title": "Assets",
+          "slug": "tokens-assets"
+        }
+      ]
+    },
+    {
+      "section": "Componentes",
+      "topics": [
+        {
+          "title": "Botones",
+          "slug": "botones"
+        },
+        {
+          "title": "Contenedores",
+          "slug": "contenedores"
+        },
+        {
+          "title": "Indicadores",
+          "slug": "indicadores"
+        },
+        {
+          "title": "Inputs",
+          "slug": "inputs"
+        },
+        {
+          "title": "Navegación",
+          "slug": "navegacion"
+        },
+        {
+          "title": "Popups",
+          "slug": "popups"
+        }
+      ]
     }
   ]
 }
