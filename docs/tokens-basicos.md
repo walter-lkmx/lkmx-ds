@@ -23,6 +23,51 @@ Las variaciones de espaciado están definidas por una escala de números divisib
 |xxl      |64px     |
 |xxxl     |80px     |
 
-##Guías Tipográficas
 
-Nuestro sistema tipográfico
+## Guías Tipográficas
+
+Nuestro sistema tipográfico es el núcleo de nuestra interfaz. Ayuda a transmitir la jerarquía del contenido de nuestra página y tiene la capacidad de traducirse a una multitud de idiomas.
+
+Roboto es el tipo de letra estándar de LKMX para Web, iOS y Android. Nuestros pesos de fuente se seleccionan para centrarse en la accesibilidad.
+
+### Familia tipográfica
+
+|'Roboto', 'Helvetica Neue', 'Helvetica', Arial, sans-serif   |
+|-------------------------------------------------------------|
+
+### Font Weight
+- Light - 300
+- Regular - 400
+- **Medium - 500**
+- **Bold- 700**
+
+### Jerarquía
+| Tipo | Propiedades |
+|--|--|
+| Data Viz 1 | Font size: 56px<br>Line height: 68px<br>Font weight: 300 / Light<br>Color: Black Pepper 400  |
+| Data Viz 2 | Font size: 34px<br>Line height: 40px<br>Font weight: 300 / Light<br>Color: Black Pepper 400  |
+| H1 | Font size: 28px<br>Line height: 36px<br>Font weight: 500 / Medium<br>Color: Black Pepper 400  |
+| H2 | Font size: 24px<br>Line height: 32px<br>Font weight: 700 / Bold<br>Color: Black Pepper 400  |
+| H3 | Font size: 20px<br>Line height: 28px<br>Font weight: 700 / Bold<br>Color: Black Pepper 400  |
+| H4 | Font size: 16px<br>Line height: 24px<br>Font weight: 700 / Bold<br>Color: Black Pepper 400  |
+| H5 | Font size: 16px<br>Line height: 24px<br>Font weight: 400 / Regular<br>Color: Black Pepper 400  |
+| Body | Font size: 14px<br>Line height: 20px<br>Font weight: 400 / Regular<br>Color: Black Pepper 300  |
+| Body 2 | Font size: 13px<br>Line height: 20px<br>Font weight: 400 / Regular<br>Color: Black Pepper 300  |
+| Small | Font size: 12px<br>Line height: 16px<br>Font weight: 400 / Regular<br>Color: Black Pepper 300  |
+
+
+### Variaciones
+
+Son modificadores en la jerarquía de las fuentes tipográficas. Es posible combinarlos.
+
+| Tipo | Propiedades / Uso |
+|--|--|
+| Label | Font weight: 500 / Medium<br>Para etiquetas de campo (Body 1/2 y Small) |
+| Button | Font weight: 500 / Medium<br>Para botones, encabezados, sub-encabezados y énfasis en textos de párrafo |
+| **CAPS** | Font weight: 700 / Bold; Mayúsculas<br>Para botones en Android y textos capitalizados  |
+| Hint | Color: Gris<br>Para texto de ayuda y/o contenido secundario  |
+| <span style="color: #ff004f">Error</span> | Color: LKMX Red<br>Para textos de error (usualmente en tamaño pequeño)  |
+| <span style="color: #00d2ff">Link</span> | Color: LKMX Blue; decoración textual: delineado (sólo al darle hover)<br>Para hipervínculos (sin importar el tamaño de fuente) |
+| Mono | Familia: 'Roboto Mono', 'Courier New' Courier, monospace<br>Para contenido monoespacial (código, preformateado, etc.)  |
+| <span style="background-color: #060444; padding: 0 5px; color: white;">Inverse</span> | Color: LKMX Dark<br>Para cualquier texto que necesite ser resaltado con un color de fondo. Procurar usar texto color blanco.  |
+
