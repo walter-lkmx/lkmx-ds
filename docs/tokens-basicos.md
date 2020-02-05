@@ -22,3 +22,7 @@ Las variaciones de espaciado están definidas por una escala de números divisib
 |xl       |40px     |
 |xxl      |64px     |
 |xxxl     |80px     |
+
+##Guías Tipográficas
+
+Nuestro sistema tipográfico
