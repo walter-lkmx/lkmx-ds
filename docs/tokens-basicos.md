@@ -71,3 +71,34 @@ Son modificadores en la jerarquía de las fuentes tipográficas. Es posible comb
 | Mono | Familia: 'Roboto Mono', 'Courier New' Courier, monospace<br>Para contenido monoespacial (código, preformateado, etc.)  |
 | <span style="background-color: #060444; padding: 0 5px; color: white;">Inverse</span> | Color: LKMX Dark<br>Para cualquier texto que necesite ser resaltado con un color de fondo. Procurar usar texto color blanco.  |
 
+
+## Profundidad
+
+Nuestros niveles de profundidad unifican sombras paralelas y sombras internas. Ayudan a crear áreas de interés visual y capas en nuestro producto.
+
+Cada nivel de profundidad debe seleccionarse en función del contenido, el fondo y los otros niveles de profundidad utilizados en la página. Use las sugerencias a continuación como referencia para saber cuándo usar cada una.
+
+<div style="width: 100px; height: 100px; background-color: #fdfdfd; box-shadow: rgba(82, 97, 115, 0.09) 0px 0px 8px 0px inset;"></div> 
+
+**Profundidad -1** <br>
+Usado para contenedores inset
+
+<div style="width: 100px; height: 100px; background-color: #fdfdfd; box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 4px 0px;"></div> 
+
+**Profundidad 1** <br>
+Profundidad de tarjeta estándar
+
+<div style="width: 100px; height: 100px; background-color: #fdfdfd; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px 0px;"></div> 
+
+**Profundidad 2** <br>
+En hover, la profundidad aumenta
+
+<div style="width: 100px; height: 100px; background-color: #fdfdfd; box-shadow: rgba(0, 0, 0, 0.12) 0px 8px 16px 0px;"></div> 
+
+**Profundidad 3** <br>
+En notificaciones activas, asíncronas y pop-ups
+
+<div style="width: 100px; height: 100px; background-color: #fdfdfd; border: 1px solid rgb(218, 226, 230); box-shadow: rgba(0, 0, 0, 0.12) 0px 8px 16px 0px;"></div>
+
+**Profundidad 4** <br>
+En tarjetas sobre fondos blancos, así como en menús y ventanas de aviso
