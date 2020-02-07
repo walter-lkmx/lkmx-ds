@@ -24,7 +24,7 @@ Las variaciones de espaciado están definidas por una escala de números divisib
 |xxxl     |80px     |
 
 
-## Guías Tipográficas
+## Tipografía
 
 Nuestro sistema tipográfico es el núcleo de nuestra interfaz. Ayuda a transmitir la jerarquía del contenido de nuestra página y tiene la capacidad de traducirse a una multitud de idiomas.
 
