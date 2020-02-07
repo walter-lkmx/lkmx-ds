@@ -146,9 +146,9 @@ Ejemplo:
 No use fracciones en mayúsculas y minúsculas. Use números decimales para las magnitudes medidas y use palabras con otras fracciones simples.
 
 Ejemplo:
-- 2.5
+- Insertar disco duro de 3.5 pulgadas (no "...de 3 1/2 pulgadas" o "...de 3½ pulgadas") 
 
-- Tres cuartas partes
+- Tres cuartas partes de tareas realizadas.
 
 **Numerales**
 
@@ -159,6 +159,43 @@ La única excepción es cuando usa "uno" en una frase en la que sirve como artí
 
 **Abreviaciones Numéricas**
 
+Use el siguiente formato para abreviaturas numéricas:
+
+- 1K (mil)
+
+- 1M (millón)
+
+- 1MM (mil millones)
+
+- 1B (billón)
+
+
 **Porcentajes**
 
+Cuando necesite indicar porcentajes, siga estas pautas:
+
+1) Al ejecutar texto y encabezados, deletree la palabra porcentaje en lugar de usar el símbolo %.
+
+Ejemplos:
+- LKMX tiene una calificación de satisfacción del cliente del 98 por ciento.
+- LKMX logra el 98 por ciento de satisfacción del cliente.
+
+2) En tablas, cuadros, gráficos, copias con base científica, citas o cuando el espacio es limitado, use el símbolo de porcentaje.
+
+Ejemplos:
+- Satisfacción del cliente: 98%
+- "LKMX tiene una calificación de satisfacción del cliente del 98%", dijo el gerente de LKMX, Víctor Valle.
+
+
 **Números telefónicos**
+
+Los números de teléfono de México deben formatearse de la siguiente manera: (646) 123-1234
+Los números de teléfono de EE.UU. deben formatearse de la siguiente manera: 415-123-1234 o (415)123-1234
+
+Para los números de teléfono internacionales, inserte un signo más antes del código del país, seguido del resto del número. Tenga en cuenta que el uso o no de guiones depende del país:
+
+- Irlanda: +353 1 2419900
+- Reino Unido: +44 (0) 20 3318 2336
+- Nueva Zelanda: +64-9-8010520
+- Singapur: +65 6809 5098
+- Japón: +81-3-4572-1200
