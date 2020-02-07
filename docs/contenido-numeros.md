@@ -184,7 +184,7 @@ Ejemplos:
 
 Ejemplos:
 - Satisfacción del cliente: 98%
-- "LKMX tiene una calificación de satisfacción del cliente del 98%", dijo el gerente de LKMX, Víctor Valle.
+- "LKMX tiene una calificación de satisfacción del cliente del 98%", dijo el Director General de LKMX, Víctor Valle.
 
 
 **Números telefónicos**
