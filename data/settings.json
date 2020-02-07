@@ -59,6 +59,31 @@
           "slug": "popups"
         }
       ]
+    },
+    {
+      "section": "Contenido",
+      "topics": [
+        {
+          "title": "Tono y voz",
+          "slug": "contenido-tono-voz"
+        },
+        {
+          "title": "Idioma y Estilo",
+          "slug": "contenido-idioma-estilo"
+        },
+        {
+          "title": "Números",
+          "slug": "contenido-numeros"
+        },
+        {
+          "title": "Texto UI",
+          "slug": "contenido-texto-ui"
+        },
+        {
+          "title": "Nomenclatura de tareas",
+          "slug": "contenido-nomenclatura-tareas"
+        }
+      ]
     }
   ]
 }

@@ -16,6 +16,8 @@ Ejemplos:
 - Tipografía
 - Reglas de espaciado
 - Reglas no visuales como guías de movimiento
+
+
 ## Recursos
 Unidades de UI más complejas, se usan de la misma forma que los componentes pero con funciones y propósitos fijos. Dependen de los tokens, pero se construyen de forma distinta.
 

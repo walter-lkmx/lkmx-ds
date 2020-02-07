@@ -30,18 +30,19 @@ Nuestro sistema tipográfico es el núcleo de nuestra interfaz. Ayuda a transmit
 
 Roboto es el tipo de letra estándar de LKMX para Web, iOS y Android. Nuestros pesos de fuente se seleccionan para centrarse en la accesibilidad.
 
-### Familia tipográfica
+**Familia tipográfica**
 
 |'Roboto', 'Helvetica Neue', 'Helvetica', Arial, sans-serif   |
 |-------------------------------------------------------------|
 
-### Font Weight
+**Font Weight**
 - Light - 300
 - Regular - 400
 - **Medium - 500**
 - **Bold- 700**
 
-### Jerarquía
+**Jerarquía**
+
 | Tipo | Propiedades |
 |--|--|
 | Data Viz 1 | Font size: 56px<br>Line height: 68px<br>Font weight: 300 / Light<br>Color: Black Pepper 400  |
@@ -56,7 +57,7 @@ Roboto es el tipo de letra estándar de LKMX para Web, iOS y Android. Nuestros p
 | Small | Font size: 12px<br>Line height: 16px<br>Font weight: 400 / Regular<br>Color: Black Pepper 300  |
 
 
-### Variaciones
+**Variaciones**
 
 Son modificadores en la jerarquía de las fuentes tipográficas. Es posible combinarlos.
 
@@ -78,27 +79,29 @@ Nuestros niveles de profundidad unifican sombras paralelas y sombras internas. A
 
 Cada nivel de profundidad debe seleccionarse en función del contenido, el fondo y los otros niveles de profundidad utilizados en la página. Use las sugerencias a continuación como referencia para saber cuándo usar cada una.
 
-<div style="width: 100px; height: 100px; background-color: #fdfdfd; box-shadow: rgba(82, 97, 115, 0.09) 0px 0px 8px 0px inset;"></div> 
+-- CUADRADO --
 
 **Profundidad -1** <br>
 Usado para contenedores inset
 
-<div style="width: 100px; height: 100px; background-color: #fdfdfd; box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 4px 0px;"></div> 
+[DuckDuckGo](https://www.facebook.com)
+
+![Lorem ipsum dolor sit amet](https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687)
 
 **Profundidad 1** <br>
 Profundidad de tarjeta estándar
 
-<div style="width: 100px; height: 100px; background-color: #fdfdfd; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px 0px;"></div> 
+-- CUADRADO --
 
 **Profundidad 2** <br>
 En hover, la profundidad aumenta
 
-<div style="width: 100px; height: 100px; background-color: #fdfdfd; box-shadow: rgba(0, 0, 0, 0.12) 0px 8px 16px 0px;"></div> 
+-- CUADRADO --
 
 **Profundidad 3** <br>
 En notificaciones activas, asíncronas y pop-ups
 
-<div style="width: 100px; height: 100px; background-color: #fdfdfd; border: 1px solid rgb(218, 226, 230); box-shadow: rgba(0, 0, 0, 0.12) 0px 8px 16px 0px;"></div>
+-- CUADRADO --
 
 **Profundidad 4** <br>
 En tarjetas sobre fondos blancos, así como en menús y ventanas de aviso
@@ -108,22 +111,22 @@ En tarjetas sobre fondos blancos, así como en menús y ventanas de aviso
 
 Esta guía está escrita para diseñadores que desean ofrecer un movimiento consistente en sus prototipos, y para desarrolladores que desean una guía de valores de referencia rápida.
 
-### Propósito
+**Propósito**
 Todas las animaciones de la interfaz de usuario deben tener un propósito conocido. Esta intención podría ser resolver un problema de diseño o comunicar la personalidad de nuestra marca. Más adelante, se explicará cómo identificar en detalle el propósito de una animación.
 
-### Evitar crear obstáculos
+**Evitar crear obstáculos**
 La animación no debe interponerse en el camino del usuario para completar su tarea. Una animación nunca aumentaría intencionalmente la dificultad de una tarea, pero puede ser fácil dejarse llevar mientras se diseña algo visualmente agradable. Evite florecer extra y cantidades de tiempo innecesarias. En cambio, mantenga las animaciones simples, rápidas y directas.
 
 Los estados de carga y recuperación son una excepción; Hay momentos en los que no se puede evitar la espera.
 
-### Entregar deleite
+**Entregar deleite**
 Como se mencionó anteriormente, cuando no se puedan evitar los tiempos de espera, úselo como una oportunidad para expresar la identidad de nuestra marca y al mismo tiempo deleitar al usuario en momentos de frustración. La diversión es uno de nuestros valores fundamentales, después de todo.
 
-### Mantenerlo flexible
+**Mantenerlo flexible**
 Las buenas animaciones de interfaz deben ser flexibles y siempre deben responder a la entrada del usuario, incluso mientras la animación se mueve. Piensa en ello como una conversación. Si un usuario comienza a darse cuenta de que se omite o ignora su entrada, se pierde la confianza y la calidad de su experiencia comienza a degradarse. La animación sin bloqueo genera confianza al responder siempre a la entrada del usuario, sin importar en qué parte de la animación se encuentre actualmente. El tiempo de la animación también puede variar según el tamaño de la transición de la interfaz de usuario (que se está llevando a cabo, aunque generalmente se clasifican con un rango de 200 ms a 500 ms).
 
-### Centrarse en la interacción
+**Centrarse en la interacción**
 Aunque las animaciones deben ser rápidas, es importante tener en cuenta la mentalidad basada en tareas de su usuario al decidir sobre múltiples factores de animación. Para continuar con la metáfora de la conversación, las animaciones siempre deben sentirse bien para interactuar. Juzgue esto probando la animación por usted mismo en contexto, así como obteniendo opiniones externas. Esto recae en que las animaciones son flexibles, incluso si el tiempo está fuera del rango recomendado, pero se siente bien.
 
-### Tener en cuenta el rendimiento
+**Tener en cuenta el rendimiento**
 Las animaciones que tardan en interactuar en la web impactan negativamente en la experiencia. El bajo rendimiento puede anular incluso la experiencia más pensada. Las animaciones deberían usar las propiedades más eficientes. Las compensaciones se pueden usar para aligerar la carga cognitiva de muchos objetos que animan, al tiempo que mejoran el rendimiento percibido del usuario.
