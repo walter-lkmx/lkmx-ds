@@ -10,18 +10,12 @@ Pensado para mejorar la experiencia del usuario y de todos los miembros del proy
 
 ## Valores
 
-Nuestros principios dan forma a la manera en que trabajamos día a día y nos ayudan a tomar desiciones de diseño complejas. Cada uno fue elejido para representar las facetas centrales de un gran diseño y un excelente software.
+Nuestros principios dan forma a la manera en que trabajamos día a día y nos ayudan a tomar decisiones de diseño complejas. Cada uno fue elegido para representar las facetas centrales de un gran diseño y un excelente software.
 
-**Seguro**: Elimina cualquier ambigüedad. Permite a la persona mirar, entender y actuar con confianza.
+**Seguro**: Elimina cualquier ambigüedad. Permite a la persona ver, entender y actuar con confianza.
 
 **Ágil**: Agiliza y optimiza el flujo de trabajo. Anticipa las necesidades de la persona para ayudarlo a trabajar mejor, de manera más inteligente y más rápida.
 
 **Fácil**: Crea familiaridad y favorece la intuición de la persona al aplicar la misma solución al mismo problema.
 
 **Estético**: Demuestra respeto por el tiempo y la atención de la persona a través de una experiencia bien pensada y atractiva visualmente.
-
-<!-- ```bash
-git clone https://github.com/samuelhorn/jamdocs project-name
-cd project-name
-gridsome develop
-``` -->
