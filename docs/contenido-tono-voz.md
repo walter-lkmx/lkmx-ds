@@ -27,7 +27,6 @@ slug: contenido-tono-voz
 - Sé directo. No andes por las ramas.
 
 
-## Voz y Tono
 
 **Voz**
 
@@ -35,7 +34,7 @@ La voz es la corriente subyacente de toda la escritura que aparece en nuestro pr
 
 **Tono**
 
-El tono está determinado por el tiempo y el lugar. Una invitación de boda hablará de manera diferente a una carta de terminación. En Workday, un mensaje de error varía mucho de una notificación de éxito. Entonces, para cada interacción, prestamos mucha atención a estos factores: ¿qué estamos tratando de comunicar? ¿Estamos celebrando el éxito o empatizando con la frustración o el fracaso? ¿O simplemente estamos transmitiendo información de manera clara y concisa?
+El tono está determinado por el tiempo y el lugar. Una invitación de boda hablará de manera diferente a una carta de terminación. En LKMX, un mensaje de error varía mucho de una notificación de éxito. Entonces, para cada interacción, prestamos mucha atención a estos factores: ¿qué estamos tratando de comunicar? ¿Estamos celebrando el éxito o empatizando con la frustración o el fracaso? ¿O simplemente estamos transmitiendo información de manera clara y concisa?
 
 No importa cuál sea nuestro tono, recuerde que nuestra voz siempre permanece igual. En el centro de todo, nuestra escritura siempre es útil, y adoptamos la claridad cada vez.
 
