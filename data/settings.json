@@ -27,27 +27,27 @@
       "topics": [
         {
           "title": "Botones",
-          "slug": "botones"
+          "slug": "componentes-botones"
         },
         {
           "title": "Contenedores",
-          "slug": "contenedores"
+          "slug": "componentes-contenedores"
         },
         {
           "title": "Indicadores",
-          "slug": "indicadores"
+          "slug": "componentes-indicadores"
         },
         {
           "title": "Inputs",
-          "slug": "inputs"
+          "slug": "componentes-inputs"
         },
         {
           "title": "Navegación",
-          "slug": "navegacion"
+          "slug": "componentes-navegacion"
         },
         {
           "title": "Popups",
-          "slug": "popups"
+          "slug": "componentes-popups"
         }
       ]
     },
