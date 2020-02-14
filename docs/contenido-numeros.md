@@ -24,7 +24,7 @@ Use el siguiente formato para abreviaturas numéricas:
 
 **Fechas y Horas**
 
-En este artículo, hemos presentado algunas pautas generales para mostrar fechas y horas. Todos los formatos de fecha y hora incluidos en este artículo han sido aprobados y son compatibles con XO y el equipo de globalización.
+En este artículo, hemos presentado algunas pautas generales para mostrar fechas y horas. Todos los formatos de fecha y hora incluidos en este artículo han sido aprobados.
 
 Hemos incluido múltiples opciones de formato y pautas aquí por las siguientes razones:
 
@@ -38,11 +38,11 @@ Recomendaciones:
 - Utilice un formato de fecha escrito y no numérico siempre que sea posible para mejorar la claridad y la legibilidad.
 - Escriba las fechas como números cardinales (2 de enero), no como números ordinales (2º de enero).
 - Al escribir una fecha que incluya el día de la semana, si deletrea completamente el día de la semana (en lugar de abreviar), también deletrea completamente el mes.
-- Use formatos numéricos cuando tenga poco espacio. Solo use un formato numérico para las fechas si tiene una razón convincente (como la falta de espacio en la tabla). Workday actualmente admite un formato de 8 dígitos.
+- Use formatos numéricos cuando tenga poco espacio. Solo use un formato numérico para las fechas si tiene una razón convincente (como la falta de espacio en la tabla). LKMX actualmente admite un formato de 8 dígitos.
 - Para mantener los rangos de fecha y hora lo más cortos y claros posible, solo incluya la información mínima necesaria.
 - Si el rango de fechas está en el mismo año, no repita el año.
 - Sin embargo, si se incluye el tiempo en un rango de fechas, incluya el año para ambas fechas enumeradas.
-- Con respecto a los rangos de fechas largas u ocupadas, si considera que necesita un rango largo o visualmente ocupado (como el martes, 23/06/2018 10:30 a. M., Jueves, 24/06/2018 01:15 p. M. PST), intente usar la jerarquía de información en la página para dividir la información. Ponga cualquier información repetida en la parte superior de una página o al comienzo de un bloque de información.
+- Con respecto a los rangos de fechas largas u ocupadas, si considera que necesita un rango largo o visualmente ocupado (como el martes, 23/06/2018 10:30 am, Jueves, 24/06/2018 01:15 pm, PST), intente usar la jerarquía de información en la página para dividir la información. Ponga cualquier información repetida en la parte superior de una página o al comienzo de un bloque de información.
 - En duraciones de tiempo, si debe usar paréntesis para anotar los plurales en duraciones de tiempo, use uno de estos formatos: 6 hr(s) 15 min(s) o 6 hora(s) 15 minuto(s).
 
 *Ejemplos de fechas y horarios admitidos en México*
@@ -95,11 +95,11 @@ En LKMX, tenemos 2 preferencias de usuario separadas que pueden afectar el forma
 
 LKMX admite más de 80 configuraciones regionales. La configuración regional controla el formato numérico de fecha y hora (fechas y horas escritas solo en números, como el 23/05/2019 o el 23/05/2019).
 
-El lenguaje impulsa el formateo de fechas y horas no numéricas escritas. Por ejemplo, el 23 de junio de 2019 en francés se escribe como 23 de junio de 2019. Workday admite alrededor de 30 idiomas.
+El lenguaje impulsa el formateo de fechas y horas no numéricas escritas. Por ejemplo, el 23 de junio de 2019 en francés se escribe como 23 de junio de 2019. LKMX admite alrededor de 30 idiomas.
 
 La configuración regional y el idioma afectarán cosas como el orden en que se presentan los días y los meses, ya sea que la hora se dé en formato AM / PM o 24 horas, y más. La mayoría de las traducciones y la localización se manejan automáticamente a través de máscaras de formato, que cambian la forma en que las fechas y horas se muestran en otros idiomas o idiomas. Debido a que este trabajo se realiza automáticamente, solo podemos usar formatos de fecha y hora que hayan sido aprobados por el equipo de globalización, de modo que las fechas y horas se puedan volver a mostrar fácilmente para todos nuestros clientes en todo el mundo.
 
-Si no está seguro de que Workday enmascarará o traducirá sus fechas automáticamente, use el formato ISO incluido en las tablas de ejemplos anteriores.
+Si no está seguro de que LKMX enmascarará o traducirá sus fechas automáticamente, use el formato ISO incluido en las tablas de ejemplos anteriores.
 
 Si tiene más preguntas sobre cómo formatear fechas y horas, o si necesita usar un formato que no figura en esta lista, comuníquese con el equipo de contenido (ux-product-content) para ver si se puede admitir.
 
@@ -192,7 +192,7 @@ Ejemplos:
 Los números de teléfono de México deben formatearse de la siguiente manera: (646) 123-1234
 Los números de teléfono de EE.UU. deben formatearse de la siguiente manera: 415-123-1234 o (415)123-1234
 
-Para los números de teléfono internacionales, inserte un signo más antes del código del país, seguido del resto del número. Tenga en cuenta que el uso o no de guiones depende del país:
+Para los números de teléfono internacionales, inserte el signo '+' antes del código del país, seguido del resto del número. Tenga en cuenta que el uso o no de guiones depende del país:
 
 - Irlanda: +353 1 2419900
 - Reino Unido: +44 (0) 20 3318 2336
