@@ -6,15 +6,15 @@ slug: contenido-nomenclatura-tareas
 
 **El por qué y cómo**
 
-Nuestros objetivos son brindar coherencia a la forma en que nombramos las tareas y mejorar la capacidad de descubrimiento de las tareas en Workday.
+Nuestros objetivos son brindar coherencia a la forma en que nombramos las tareas y mejorar la capacidad de descubrimiento de las tareas en LKMX.
 
-Las pautas son informar nuevos nombres de tareas, no causar un cambio de nombre de todos los nombres de tareas anteriores. Como hay actualizaciones a las características particulares del producto, los equipos pueden considerar las pautas y ver si desean cambiar los nombres de las tareas como parte de la mejora de la experiencia del usuario. Si decide cambiar el nombre de una tarea, considere el impacto en Workday y notifique a todos los interesados, incluidos los escritores de documentos, los equipos de educación, los equipos de servicios y más.
+Las pautas son informar nuevos nombres de tareas, no causar un cambio de nombre de todos los nombres de tareas anteriores. Como hay actualizaciones a las características particulares del producto, los equipos pueden considerar las pautas y ver si desean cambiar los nombres de las tareas como parte de la mejora de la experiencia del usuario. Si decide cambiar el nombre de una tarea, considere el impacto en LKMX y notifique a todos los interesados, incluidos los escritores de documentos, los equipos de educación, los equipos de servicios y más.
 
 *¿Quién hizo estos de todos modos? ¿Y por qué?*
 
 Estas pautas se desarrollaron en un esfuerzo multifuncional, con aportes de los siguientes grupos: gestión de productos, capacitación de desarrollo, atención al cliente, diseño y redactores de documentos.
 
-Están destinados a gerentes de proyectos, diseñadores, escritores y cualquier otra persona involucrada en el nombramiento de tareas en Workday.
+Están destinados a gerentes de proyectos, diseñadores, escritores y cualquier otra persona involucrada en el nombramiento de tareas en LKMX.
 
 *Letra pequeña*
 
@@ -37,7 +37,7 @@ Las pautas son solo eso, pautas, no reglas. Tenga en cuenta esto, pero no sienta
 
 *Mire otras verticales de productos*
 
-- Algunos usuarios, como los implementadores y los administradores de Workday, ven los nombres de las tareas en muchas áreas. Por este motivo, es importante buscar el nombre de la tarea que está considerando para asegurarse de que otras tareas con nombres similares no existan.
+- Algunos usuarios, como los implementadores y los administradores de LKMX, ven los nombres de las tareas en muchas áreas. Por este motivo, es importante buscar el nombre de la tarea que está considerando para asegurarse de que otras tareas con nombres similares no existan.
 - No le dé a una tarea el mismo nombre que un informe porque esto causará confusión a los usuarios.
 
 
@@ -66,7 +66,7 @@ Los nombres de tareas fuertes generalmente comienzan con un verbo y terminan con
 
 *Los verbos*
 
-Para ver notas sobre verbos específicos y su uso en Workday, consulte la lista de definiciones de verbos a continuación.
+Para ver notas sobre verbos específicos y su uso en LKMX, consulte la lista de definiciones de verbos a continuación.
 
 - El nombre de tu tarea debe incluir un verbo.
 - Usa la voz imperativa: Do XYZ. Escribe el nombre de la tarea como si estuvieras hablando con el usuario. Apégate al tiempo presente.
@@ -79,7 +79,7 @@ Los sustantivos son personas, lugares y cosas. Los sustantivos en el nombre de s
 
 - Los sustantivos deben responder algunas de las siguientes preguntas: ¿Qué es esta cosa? ¿Cómo lo llama el usuario?
 - Piense en qué sustantivos serían los más intuitivos para el usuario.
-- Los sustantivos deben ser únicos y específicos. Busque el sustantivo en Workday y vea qué otras tareas o informes contienen este sustantivo. Si es probable que su usuario vea estas tareas o informes, considere cómo diferenciar el nombre de su tarea. Los verbos se repetirán, pero su frase nominal debe ser lo suficientemente diferente para que cuando un usuario esté buscando y vea 2 tareas una al lado de la otra, sepa qué tarea elegir.
+- Los sustantivos deben ser únicos y específicos. Busque el sustantivo en LKMX y vea qué otras tareas o informes contienen este sustantivo. Si es probable que su usuario vea estas tareas o informes, considere cómo diferenciar el nombre de su tarea. Los verbos se repetirán, pero su frase nominal debe ser lo suficientemente diferente para que cuando un usuario esté buscando y vea 2 tareas una al lado de la otra, sepa qué tarea elegir.
 
 
 *'Mi' y 'tu'*
@@ -111,3 +111,37 @@ Los sustantivos son personas, lugares y cosas. Los sustantivos en el nombre de s
 | Validado | Valide el nombre con usuarios y colegas (gerentes de proyecto, diseñadores, escritores de documentos, estrategas de contenido). |
 
 **Qué hacer y qué no hacer**
+
+| Válido | Inválido | Notas |
+|--|--|--|
+| 'Registrar Cuenta' | 'Crear Registro de Cuenta' | No uses dos verbos, evita el pleonasmo. |
+| 'Registrar Cuenta' | 'Registro de Cuenta' | No utilices sustantivos para llamar una tarea a realizar. Utiliza verbos. |
+| 'Crear Nueva Cuenta' | 'Crear una Nueva Cuenta' | No incluyas artículos en las tareas |
+| 'Crear Nueva Cuenta LKMX' | 'Crear CCPL (Cuenta Con Parámetros LKMX)' | No uses jerga, un lenguaje demasiado técnico o abreviaciones innecesarias. |
+| 'Cambiar mis Beneficios' | 'Cambiar tus Beneficios' | No uses "tu" como adjetivo posesivo. |
+
+
+**Glosario de verbos**
+
+
+
+| Verbo | Definición | Ejemplos | Notas |
+|--|--|--|--|
+| Actualizar | Hacer algo más actual o para crear una versión más nueva de algo que ya existe en LKMX. | 'Actualizar Datos del Cliente'<br><br>'Actualizar Evento'<br><br>'Actualizar Tarea en JIRA' | Cuando se actualiza algo, los cambios solo se aplican desde un punto particular en el tiempo en adelante. Por el contrario, editar o cambiar algo no implica modificaciones específicas de tiempo. |
+| Administrar | Controlar o gestionar múltiples aspectos de algo. Puede incluir otras acciones como agregar, crear, cambiar, eliminar, sustituir. Esto es más completo que "Editar".<br><br>Ver "Mantener". | 'Administrar Pedidos'<br><br>'Administrar Cuentas'<br><br>'Administrar Casos' | "Administrar" se usa con más frecuencia en ciertas áreas de LKMX, como Administración de Capital Humano. Se usa más para tareas que tratan con datos transaccionales y alquilados, donde se utiliza "Mantener" para los datos de configuración. |
+| Agregar | 1. Tomar algo que ya existe (por ejemplo, un número de teléfono, un documento) y ponerlo en LKMX.<br><br>2. Para agregar más cosas a algo que ya existe en LKMX (por ejemplo, una fila en una tabla o cuadrícula). | 'Agregar Teléfono'<br><br>'Agregar Dirección'<br><br>'Agregar Archivo' |  |
+| Archivar | Ocultar algo de la vista o moverlo a un lugar en LKMX donde no esté disponible. | 'Archivar Correo' | Los elementos archivados todavía están disponibles en LKMX. |
+| Arreglar | Permitir que el administrador de un cliente corrija los datos. | 'Arreglar Datos de Tarjeta de Crédito'<br><br>'Arreglar Hora de Evento' |  Se usa solo para tareas que LKMX crea en caso de que un cliente informe un error.<br><br>No utilice "Arreglar" como sinónimo de "Corregir".|
+| Buscar | Localizar o devolver algo o un conjunto de cosas. | 'Buscar Archivo'<br><br>'Buscar Producto'<br><br>'Buscar Evento' | A menudo se usa en nombres de informes. |
+| Cambiar | Sustituir o modificar todo o parte de algo. | 'Cambiar Datos'<br><br>'Cambiar Fecha de Evento'<br><br>'Cambiar Horario' |  Cambiar y editar tienen significados similares. En algunos casos, es posible que desee utilizar el verbo "Editar" en su lugar.|
+| Cancelar | Anular o detener algo. | 'Cancelar Envío'<br><br>'Cancelar Proceso'<br><br>'Cancelar Ajustes' | Algo que se cancela no se elimina, y un registro del mismo puede permanecer en LKMX.<br><br>"Cancelar" puede ser apropiado para cosas en modo borrador o cosas que ya se han enviado.<br><br>En algunos casos, cuando un proceso ya está completo, puede ser mejor usar "Cerrar" o "Deshacer". |
+| Configurar | Reformar mediante el establecimiento de reglas o configuraciones. | 'Configurar Contraseña'<br><br>'Configurar Cuenta'<br><br>'Configurar Pedido' | Se puede usar para la configuración por primera vez o para editar algo configurado previamente. |
+| Corregir | 1. Realizar un cambio en un elemento o tarea una vez que ya ha sido aprobado.<br><br>2. Arreglar algo después de la presentación pero antes de la aprobación. | 'Corregir Asueto'<br><br>'Corregir Permisos del Servidor' | Una tarea "correcta" a menudo está relacionada con otra tarea que requiere un proceso de negocio. |
+| Crear | Hacer algo nuevo, como tomar algunos datos o elementos que no existen y originarlos en LKMX. | 'Crear Cuenta'<br><br>'Crear Contacto'<br><br>'Crear Pedido' |  |
+| Deshacer | Retractarse de alguna acción. | 'Deshacer Registro'<br><br>'Deshacer Orden' | Usualmente se usa como parte de un proceso comercial. |
+| Editar | Modificar un aspecto de algo. Esto puede incluir agregar, eliminar, sustituir o cambiar alguna parte de un todo más grande. | 'Editar Perfil'<br><br>'Editar Información'<br><br>'Editar Orden' | Dependiendo de los detalles de envío o aprobación, la edición puede permitirse antes o después del envío, o ambos. |
+| Eliminar | Borrar o deshacerse de algo permanentemente. | 'Eliminar Cuenta'<br><br>'Eliminar Contacto'<br><br>'Eliminar Imagen' | Una vez que se elimina una cosa, se debe volver a crear desde cero porque ya no existe en LKMX.<br><br>En algunos casos, un elemento nunca se puede eliminar realmente de LKMX, y se debe usar "Eliminar" en su lugar.<br><br>Consulte también "Borrar". |
+| Mantener | 1. Realizar tareas de mantenimiento o realizar cambios en un conjunto de cosas. Puede incluir otras acciones como agregar, crear, cambiar, eliminar, sustituir. Esto es más completo que "Editar".<br><br>2. Solo para uso administrativo: cree, elimine o deshabilite datos que un usuario final pueda usar en otras tareas.<br><br>Ver "Administrar". | 'Mantener Servidores'<br><br>'Mantener Documentos' | Al decidir si usar "Administrar" o "Mantener", piense en lo que su usuario encontrará más intuitivo y qué verbo se usa de manera más consistente en su área de producto.<br><br>"Mantener" suena más técnico y puede ser más apropiado para un administrador o usuario profesional. Se usa con frecuencia para tareas de configuración al configurar LKMX. |
+| Remover | Sacar o quitar algo de otra cosa. | 'Borrar Imagen'<br><br>'Borrar Categoría' | Se puede eliminar algo de una carpeta, pero permanecer en LKMX; de manera similar, una regla o permiso se puede eliminar de algunos criterios, pero aún existen y se pueden volver a aplicar.<br><br>"Remover" tiene una connotación menos permanente que "Eliminar". |
+| Revisar | Examinar algo, generalmente para su aprobación. | 'Revisar Tarea'<br><br>'Revisar Transacción' |  |
+| Ver | Mirar algo sin la capacidad de hacer ningún cambio. | 'Ver Perfil'<br><br>'Ver Detalles'<br><br>'Ver Imagen' | Las tareas de "Ver" a menudo se combinan con las tareas de "Editar". |

@@ -114,7 +114,7 @@ Los errores son "paradas forzadas" o mensajes que impiden que un usuario avance 
 Use la voz activa al escribir mensajes de error. Puede usar la voz pasiva para evitar:
 
 - Asignación de falla a un usuario o proveedor de terceros.
-- Reforzando negativamente la marca Workday.
+- Reforzando negativamente la marca LKMX.
 
 Sin embargo, en la mayoría de los casos, puede mantener los mensajes positivos, evitar la culpa y mantenerse en voz activa diciéndoles a los usuarios qué pueden hacer para recuperarse.
 
