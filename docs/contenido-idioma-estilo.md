@@ -177,3 +177,26 @@ Una nota sobre el texto en mayúsculas: parte del texto en la interfaz de usuari
 A menos que la URL no pueda ubicarse sin ella, suelte el prefijo http: // www. Una buena regla general es probar primero la URL sin el prefijo.
 
 Al escribir cómo interactuar con un enlace, no use "hacer clic en" o "hacer clic". En su lugar, intente vincular una frase natural en la oración, o vincular una frase corta completa.
+
+Ejemplos válidos:
+
+- Para más información, [consulta nuestra página](https://lkmx.io)
+- [Mostrar página](https://lkmx.io)
+
+4 tipos de hipervínculos:
+
+1. De navegación: Son usados para navegar hacia otra página o sección sin iniciar una nueva tarea.
+2. De comando (botones de texto): Interpretan un nuevo comando, usado comunmente para acciones menos importantes.
+3. De ayuda: Proveen más información útil para términos o terminologías.
+4. Para Home: Permite a los usuarios a regresar directamente a la página Home por medio del logo del sitio web en cuestión. Se convirtió en una herramienta imprescindible en todas las páginas web.
+
+3 estados de hipervínculos:
+
+1. Normal: un hipervínculo sin ser visitado
+2. Desplazar por encima del hipervínculo (*hover*): aquel que muestra algo al pasar el *mouse* por encima del hipervínculo.
+3. Visitado: aquel que muestra un hipervínculo luego de haber sido visistado.
+
+
+¿Botones o hipervínculos?
+
+Se deben usar botones en las aplicaciones únicamente para permitir a los usuarios iniciar una acción inmediata que cambia el back-end; en cambio, los enlaces deben utilizarse en sitios web o aplicaciones para permitir a los usuarios navegar a otra sección o página.
